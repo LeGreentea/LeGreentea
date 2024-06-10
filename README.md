@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeGreentea
+- 👋 Hi, I’m Dero Ivano
 - 👀 I’m interested in -> myself
 - 🌱 I’m currently learning -> anything
 - 📫 How to reach me -> mail@deroivano.tech
