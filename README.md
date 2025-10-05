@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Dero Ivano
-- 👀 I’m interested in -> myself
+- 👋 Hi, I’m Dero
 - 🌱 I’m currently learning -> anything
 - 📫 How to reach me -> mail@deroivano.web.id
 
